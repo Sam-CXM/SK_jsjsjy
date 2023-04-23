@@ -6,7 +6,6 @@
 <img src="https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg" alt="江苏教师教育" height="256">
 </p>
 
-# jsjsjy_ACC_v2.4.4
 - [jsjsjy\_ACC\_v2.4.4](#jsjsjy_acc_v244)
 - [简介](#简介)
 - [主要功能](#主要功能)
@@ -22,6 +21,8 @@
 - [其他](#其他)
   - [关注](#关注)
   - [打赏](#打赏)
+
+# jsjsjy_ACC_v2.4.4
 
 # 简介
 欢迎您使用江苏教师教育ACC（Auto Cut Class）系统（以下简称“本软件”）。  
