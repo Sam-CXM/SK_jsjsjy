@@ -3,8 +3,9 @@
 <!-- ![](https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg) -->
 
 <p align="center">
+<a href="https://www.jste.net.cn/uids/index.jsp">
 <img src="https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg" alt="江苏教师教育" height="256">
-</p>
+</a></p>
 
 - [jsjsjy\_ACC\_v2.4.4](#jsjsjy_acc_v244)
 - [简介](#简介)
