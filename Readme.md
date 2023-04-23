@@ -1,4 +1,10 @@
-<a  style="display:block;text-align:center;" href="https://www.jste.net.cn/uids/index.jsp"><img src="https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg" alt="江苏教师教育" height="200"></a>
+<!-- <a  style="display:block;text-align:center;" href="https://www.jste.net.cn/uids/index.jsp"><img src="https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg" alt="江苏教师教育" height="200"></a> -->
+
+<!-- ![](https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg) -->
+
+<p align="center">
+<img src="https://www.jste.net.cn/uids/skin/css/light/images/login_main.jpg" alt="江苏教师教育" height="256">
+</p>
 
 # jsjsjy_ACC_v2.4.4
 - [jsjsjy\_ACC\_v2.4.4](#jsjsjy_acc_v244)
@@ -26,13 +32,13 @@
 
 # 使用说明
 ## 运行
-将下载的程序释放至本地，运行根目录下【jsjsjy_ACC_v2.4.4.exe】文件。
+将下载的程序释放至本地，运行根目录下 `jsjsjy_ACC_v2.4.4.exe` 文件。
+![](image/start.png)
 
 ## 使用
-根据提示输入账号和密码，按回车键（Enter键）即可。
+根据提示输入账号和密码，按回车键 `Enter` 键即可。
 
 # 更新日志
-
 - [x] 版本：v13.4   日期：2023/04/21  
   - 【优化】bug修复
 
@@ -98,7 +104,7 @@
 | Windows10/Windows11 64位 | 至少需要320M的空间 | Edge浏览器 |
 
 ## 特别说明
-软件有时会出错导致异常退出，大多数是因为Edge浏览器版本升级导致 **msedgedriver.exe** 文件失效。**解决方法**：请重新运行本软件，根据提示操作即可。
+软件有时会出错导致异常退出，大多数是因为Edge浏览器版本升级导致 `msedgedriver.exe` 文件失效。**解决方法**：请重新运行本软件，根据提示操作即可。
 
 # 声明
 本软件 **非盈利且开源** 仅用于学习交流，版权归第三方作者所有，***请勿用于商业用途***。
@@ -108,7 +114,7 @@
 同时欢迎您对本软件提出意见或建议，将 **描述** 发送至邮箱 3038693133@qq.com。
 
 ## 关注
-![关注](https://github.com/Sam-CXM/jsjsjy_ACC/blob/main/image/CXM-Studio.png)
+![关注](image/CXM-Studio.png)
 
 ## 打赏
-![打赏](https://github.com/Sam-CXM/jsjsjy_ACC/blob/main/image/QR.png)
+![打赏](image/QR.png)
