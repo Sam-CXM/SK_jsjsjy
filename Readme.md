@@ -34,9 +34,13 @@
 
 # 使用说明
 ## 运行
-将下载的程序 [点此下载](https://github.com/Sam-CXM/jsjsjy_ACC/releases/tag/jsjsjy_ACC_v2.4.4) 释放至本地，运行根目录下 `jsjsjy_ACC_v2.4.4.exe` 文件。  
+将下载的程序释放至本地，运行根目录下 `jsjsjy_ACC_v2.4.4.exe` 文件。
 
-![](image/start.png)
+- [下载地址1](https://github.com/Sam-CXM/jsjsjy_ACC/releases/tag/jsjsjy_ACC_v2.4.4)
+- [下载地址2](https://www.aliyundrive.com/s/bEgTa93stwX
+"提取码: zj69")   
+
+![start](image/start.png)
 
 ## 使用
 根据提示输入账号和密码，按回车键 `Enter` 键即可。
