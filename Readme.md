@@ -18,7 +18,8 @@
   - [打赏](#打赏)
 
 # 简介
-欢迎您使用江苏教师教育ACC（Auto Cut Class）系统（以下简称“本软件”）。本软件利用 **python3** <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" alt="python" height="40"></a> 语言编程、**Visual Studio Code** <a href="https://code.visualstudio.com/"><img src="https://img.sj33.cn/uploads/202106/7-210621202634K8.jpg" alt="vs code" height="40"></a>（简称“VS code”）为工具开发的一个自动化脚本。
+欢迎您使用江苏教师教育ACC（Auto Cut Class）系统（以下简称“本软件”）。  
+本软件利用 **python3** <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" alt="python" height="40"></a> 语言编程、**Visual Studio Code** <a href="https://code.visualstudio.com/"><img src="https://img.sj33.cn/uploads/202106/7-210621202634K8.jpg" alt="vs code" height="40"></a>（简称“VS code”）为工具开发的一个自动化脚本。
 
 # 主要功能
 只需要输入账号和密码并按回车，将自动登录并自动ACC。
