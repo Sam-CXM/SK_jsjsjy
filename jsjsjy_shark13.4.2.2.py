@@ -13,7 +13,7 @@ from re import findall
 def main():
     """ 主函数 """
     version_code = '2040004'
-    head = "开发作者：邵明明\n软件版本：v2.4\n程序版本：v13.4.4\n版本编码：" + \
+    head = "开发作者：晨小明\n软件版本：v2.4\n程序版本：v13.4.4\n版本编码：" + \
         version_code + "\n维护日期：2023/04/21\n更新日志：\n\t【优化】其他bug修复\n"
     log_file('version_code: ' + version_code)
     print(head)
